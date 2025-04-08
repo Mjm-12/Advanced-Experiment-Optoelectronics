@@ -1,7 +1,7 @@
 # 【付録B】Pythonスクリプトとその解説
 
 GitHubよりダウンロードできます。
-[FFT_Waveform.py](https://github.com/Mjm-12/Advanced-Experiment-Optoelectronics/blob/main/Appendix_B/FFT_Waveform.py)
+[FFT_Waveform.py](https://github.com/Mjm-12/Advanced-Experiment-Optoelectronics/blob/main/Python_FFT/FFT_Waveform.py)
 
 ## できること
 

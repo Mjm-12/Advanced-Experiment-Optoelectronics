@@ -158,7 +158,7 @@ Google Colabを利用して実行する方法とローカル環境で実行す�
 
 Google Colabを用いる方法は[こちら](https://github.com/Mjm-12/Advanced-Experiment-Optoelectronics/edit/main/Appendix_A)から。  
 
-ローカル環境で実行したい場合は[こちら](https://github.com/Mjm-12/Advanced-Experiment-Optoelectronics/edit/main/Appendix_B)からスクリプトをダウンロードして利用してください。  
+ローカル環境で実行したい場合は[こちら](https://github.com/Mjm-12/Advanced-Experiment-Optoelectronics/edit/main/Python_FFT)からスクリプトをダウンロードして利用してください。  
 
 ## データの保存方法
 結果の解析や実験レポートのために結果を保存したい場合は多々あります。勿論波形の観察のみではなく、記録も可能な機種がほとんどですから、是非活用してより深い考察をしてほしいです。  
