@@ -124,7 +124,7 @@ FRA Setupの画面に戻り、測定のためのパラメータを調整して�
 **FRA結果の一例 [被測定物：家に転がっていたエレキギター用のエフェクター(自作)]**  
 
 ### 結果の保存方法
-『*データの保存方法*』>『[*FRA結果を保存する*](https://github.com/Mjm-12/Advanced-Experiment-Optoelectronics/blob/main/FFT_Waveform.py)』項を参照。  
+『*データの保存方法*』>『[*FRA結果を保存する*](https://github.com/Mjm-12/Advanced-Experiment-Optoelectronics/edit/main/readme.md#fra%E7%B5%90%E6%9E%9C%E3%82%92%E4%BF%9D%E5%AD%98%E3%81%99%E3%82%8B)』項を参照。  
 
 ## 高速フーリエ変換(FFT)
 高速フーリエ変換とは離散フーリエ変換を計算機上で高速に計算するアルゴリズムです(Wikipedia)。測定した波形を周波数成分に分解することができます。  
@@ -156,9 +156,9 @@ FFTの周波数分解能（どれくらい細かく周波数を分けて分析�
 波形のFFT結果を知るために最も簡単で合理的な方法はPythonを使う方法でしょう。私はコーディングのスキルがまったくないので、ChatGPTとやりとりして書いてもらいました。使用モデルはo3-mini-highです。  
 Google Colabを利用して実行する方法とローカル環境で実行する方法の二つを用意しました。  
 
-Google Colabを用いる方法は[こちら](https://github.com/Mjm-12/Advanced-Experiment-Optoelectronics/blob/main/FFT_Waveform.py)から。  
+Google Colabを用いる方法は[こちら](https://github.com/Mjm-12/Advanced-Experiment-Optoelectronics/edit/main/readme.md#%E4%BB%98%E9%8C%B2agoogle-colab%E3%81%A7python%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B)から。  
 
-ローカル環境で実行したい場合は[こちら](https://github.com/Mjm-12/Advanced-Experiment-Optoelectronics/blob/main/FFT_Waveform.py)からスクリプトをダウンロードして利用してください。  
+ローカル環境で実行したい場合は[こちら](https://github.com/Mjm-12/Advanced-Experiment-Optoelectronics/edit/main/readme.md#%E4%BB%98%E9%8C%B2agoogle-colab%E3%81%A7python%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B)からスクリプトをダウンロードして利用してください。  
 
 ## データの保存方法
 結果の解析や実験レポートのために結果を保存したい場合は多々あります。勿論波形の観察のみではなく、記録も可能な機種がほとんどですから、是非活用してより深い考察をしてほしいです。  
