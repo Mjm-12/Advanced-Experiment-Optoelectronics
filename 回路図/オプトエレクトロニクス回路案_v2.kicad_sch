@@ -17643,6 +17643,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:NJM4580")
 		(at 154.94 48.26 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17650,7 +17651,7 @@
 		(dnp no)
 		(uuid "6fab89cc-bbe7-44bf-9fd0-4329ca5867fb")
 		(property "Reference" "U105"
-			(at 155.956 51.308 0)
+			(at 156.21 51.562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17659,7 +17660,7 @@
 			)
 		)
 		(property "Value" "NJU7032D"
-			(at 152.4 53.848 0)
+			(at 156.21 53.848 0)
 			(effects
 				(font
 					(size 1.27 1.27)
